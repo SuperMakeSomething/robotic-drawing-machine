@@ -17,4 +17,4 @@ Arduino code includes derivative of "ReadWrite" by David A. Mellis and Tom Igoe 
 
 Arduino code includes derivative of EasyDriver board sample code by Joel Bartlett available at: https://www.sparkfun.com/tutorials/400
 
-The above named files may have their own licenses and apply respectively.
+The above named files may have their own licenses, which apply respectively.
